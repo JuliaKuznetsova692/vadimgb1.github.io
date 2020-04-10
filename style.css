@@ -1,0 +1,35 @@
+.wrapper { background-color: #f7d83e;
+            width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+}
+
+header {
+        background-color: #de9b1f;
+}
+
+
+
+a {
+    text-size: 80px;
+
+}
+#cat {
+    width: 50px;
+    height: 50px;
+}
+#asd {
+    display: flex;
+}
+
+#search {
+    margin-top: 53px;
+    margin-left: 25px;
+}
+
+.qwe {
+    font-size: 22px;
+}
+h2 {
+    color: orange;
+}
